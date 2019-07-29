@@ -6,6 +6,8 @@ Vue click outside directive.
 
 ```
 $ npm install vue-click-outside
+updated for ios devices and ie11
+https://github.com/vue-bulma/click-outside/issues/15
 ```
 
 ## Example
